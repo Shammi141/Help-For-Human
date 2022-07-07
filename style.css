@@ -11,8 +11,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-
-
 .top-banner {
     
     background: linear-gradient(to bottom, transparent, black),
@@ -23,8 +21,6 @@ body{
     height: 609px;
     position: relative;
 }
-
-
 .font-center {
     width: 60%;
     height: 400px;
@@ -45,7 +41,6 @@ body{
     margin-left: 100px;
     text-align: center;
 }
-
 h1 {
     text-align: center;
     font-size: 60px;
@@ -58,8 +53,6 @@ h1 {
     padding: 10px 20px;
     margin-left: 352px;
 }
-
-
 .bonus-donation-button {
     text-decoration: none;
     color: white;
@@ -94,8 +87,6 @@ h1 {
     text-align: center;
     align-items: center; 
 }
-
-
 .money{
     font-weight: 700;
     font-size: 20px;
@@ -193,19 +184,14 @@ h1 {
     box-shadow: 8px 8px 20px grey;
     border-radius: 6px;
 }
-
 .second img {
     width: 100%;
     height: 80%;
     border-radius: 6px;
 }
-
-
-
 form{
     margin-left: 240px;
 }
-
 .parent-update-div {
     display: flex;
     height: 170px;
@@ -226,49 +212,24 @@ form{
     border: none;
     border-radius: 2px;
 }
-.child-update-div a{
-    text-decoration: none;
-        height: 20%;
-        width: 110px;
-        color: white;
-        background-color: tomato;
+
+.email {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 2px;
+    font-size: 15px;
 }
 
-
-.subscribe{
-     text-decoration: none;
+.subscribe {
     color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 2px;
+    border: none;
     background-color: tomato;
+    font-size: 15px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer-part{
     background-color: black;
     color: white;
